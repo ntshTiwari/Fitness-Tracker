@@ -1,0 +1,6 @@
+Name:nn 
+Sex:Male 
+Occupation:bnv 
+Address:n 
+E-mail Id:nhv 
+Age:23 

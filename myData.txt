@@ -1,0 +1,10 @@
+Name:null 
+Sex:null 
+Occupation:null 
+Address:null 
+E-mail Id:null 
+Age:0 
+Height:1.0 
+Weight:0.0 
+BMI:0 
+Reult:null
